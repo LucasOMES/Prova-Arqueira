@@ -397,7 +397,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -491,12 +491,12 @@ TextureImporter:
       name: UnSheath_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 915
-        width: 55
-        height: 62
+        x: 0
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -513,12 +513,12 @@ TextureImporter:
       name: UnSheath_1
       rect:
         serializedVersion: 2
-        x: 176
-        y: 915
-        width: 55
-        height: 62
+        x: 128
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -535,12 +535,12 @@ TextureImporter:
       name: UnSheath_2
       rect:
         serializedVersion: 2
-        x: 307
-        y: 919
-        width: 54
-        height: 67
+        x: 256
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -557,12 +557,12 @@ TextureImporter:
       name: UnSheath_3
       rect:
         serializedVersion: 2
-        x: 438
-        y: 921
-        width: 57
-        height: 50
+        x: 384
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -579,12 +579,12 @@ TextureImporter:
       name: UnSheath_4
       rect:
         serializedVersion: 2
-        x: 573
-        y: 924
-        width: 56
-        height: 58
+        x: 512
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -601,12 +601,12 @@ TextureImporter:
       name: UnSheath_5
       rect:
         serializedVersion: 2
-        x: 704
-        y: 925
-        width: 59
-        height: 59
+        x: 640
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -623,12 +623,12 @@ TextureImporter:
       name: UnSheath_6
       rect:
         serializedVersion: 2
-        x: 833
-        y: 909
-        width: 58
-        height: 67
+        x: 768
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -645,12 +645,12 @@ TextureImporter:
       name: UnSheath_7
       rect:
         serializedVersion: 2
-        x: 965
-        y: 914
-        width: 54
-        height: 61
+        x: 896
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -667,12 +667,12 @@ TextureImporter:
       name: UnSheath_8
       rect:
         serializedVersion: 2
-        x: 1085
-        y: 913
-        width: 63
-        height: 60
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -689,12 +689,12 @@ TextureImporter:
       name: UnSheath_9
       rect:
         serializedVersion: 2
-        x: 1213
-        y: 912
-        width: 62
-        height: 60
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -711,12 +711,12 @@ TextureImporter:
       name: UnSheath_10
       rect:
         serializedVersion: 2
-        x: 1341
-        y: 912
-        width: 62
-        height: 60
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -733,12 +733,12 @@ TextureImporter:
       name: UnSheath_11
       rect:
         serializedVersion: 2
-        x: 1469
-        y: 918
-        width: 56
-        height: 56
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -755,12 +755,12 @@ TextureImporter:
       name: UnSheath_12
       rect:
         serializedVersion: 2
-        x: 1592
-        y: 922
-        width: 55
-        height: 57
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -777,12 +777,12 @@ TextureImporter:
       name: UnSheath_13
       rect:
         serializedVersion: 2
-        x: 1716
-        y: 917
-        width: 53
-        height: 61
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -799,12 +799,12 @@ TextureImporter:
       name: UnSheath_14
       rect:
         serializedVersion: 2
-        x: 1841
-        y: 916
-        width: 55
-        height: 61
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -821,12 +821,12 @@ TextureImporter:
       name: UnSheath_15
       rect:
         serializedVersion: 2
-        x: 42
-        y: 785
-        width: 66
-        height: 59
+        x: 0
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -843,12 +843,12 @@ TextureImporter:
       name: UnSheath_16
       rect:
         serializedVersion: 2
-        x: 167
-        y: 786
-        width: 69
-        height: 58
+        x: 128
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -865,12 +865,12 @@ TextureImporter:
       name: UnSheath_17
       rect:
         serializedVersion: 2
-        x: 300
-        y: 786
-        width: 67
-        height: 58
+        x: 256
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -887,12 +887,12 @@ TextureImporter:
       name: UnSheath_18
       rect:
         serializedVersion: 2
-        x: 436
-        y: 784
-        width: 51
-        height: 58
+        x: 384
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -909,12 +909,12 @@ TextureImporter:
       name: UnSheath_19
       rect:
         serializedVersion: 2
-        x: 576
-        y: 781
-        width: 52
-        height: 63
+        x: 512
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -931,12 +931,12 @@ TextureImporter:
       name: UnSheath_20
       rect:
         serializedVersion: 2
-        x: 706
-        y: 778
-        width: 51
-        height: 65
+        x: 640
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -953,12 +953,12 @@ TextureImporter:
       name: UnSheath_21
       rect:
         serializedVersion: 2
-        x: 827
-        y: 770
-        width: 62
-        height: 71
+        x: 768
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -975,12 +975,12 @@ TextureImporter:
       name: UnSheath_22
       rect:
         serializedVersion: 2
-        x: 956
-        y: 767
-        width: 36
-        height: 70
+        x: 896
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -997,12 +997,12 @@ TextureImporter:
       name: UnSheath_23
       rect:
         serializedVersion: 2
-        x: 1072
-        y: 767
-        width: 49
-        height: 66
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1019,12 +1019,12 @@ TextureImporter:
       name: UnSheath_24
       rect:
         serializedVersion: 2
-        x: 1198
-        y: 767
-        width: 53
-        height: 64
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1041,12 +1041,12 @@ TextureImporter:
       name: UnSheath_25
       rect:
         serializedVersion: 2
-        x: 1325
-        y: 767
-        width: 54
-        height: 63
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1063,12 +1063,12 @@ TextureImporter:
       name: UnSheath_26
       rect:
         serializedVersion: 2
-        x: 1464
-        y: 785
-        width: 57
-        height: 54
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1085,12 +1085,12 @@ TextureImporter:
       name: UnSheath_27
       rect:
         serializedVersion: 2
-        x: 1587
-        y: 783
-        width: 61
-        height: 60
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1107,12 +1107,12 @@ TextureImporter:
       name: UnSheath_28
       rect:
         serializedVersion: 2
-        x: 1710
-        y: 785
-        width: 62
-        height: 59
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1129,12 +1129,12 @@ TextureImporter:
       name: UnSheath_29
       rect:
         serializedVersion: 2
-        x: 1834
-        y: 785
-        width: 66
-        height: 58
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1151,12 +1151,12 @@ TextureImporter:
       name: UnSheath_30
       rect:
         serializedVersion: 2
-        x: 43
-        y: 650
-        width: 49
-        height: 67
+        x: 0
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1173,12 +1173,12 @@ TextureImporter:
       name: UnSheath_31
       rect:
         serializedVersion: 2
-        x: 171
-        y: 650
-        width: 48
-        height: 68
+        x: 128
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1195,12 +1195,12 @@ TextureImporter:
       name: UnSheath_32
       rect:
         serializedVersion: 2
-        x: 304
-        y: 648
-        width: 48
-        height: 69
+        x: 256
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1217,12 +1217,12 @@ TextureImporter:
       name: UnSheath_33
       rect:
         serializedVersion: 2
-        x: 436
-        y: 644
-        width: 24
-        height: 69
+        x: 384
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1239,12 +1239,12 @@ TextureImporter:
       name: UnSheath_34
       rect:
         serializedVersion: 2
-        x: 567
+        x: 512
         y: 640
-        width: 35
-        height: 72
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1261,12 +1261,12 @@ TextureImporter:
       name: UnSheath_35
       rect:
         serializedVersion: 2
-        x: 695
-        y: 639
-        width: 25
-        height: 72
+        x: 640
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1283,12 +1283,12 @@ TextureImporter:
       name: UnSheath_36
       rect:
         serializedVersion: 2
-        x: 802
-        y: 639
-        width: 60
-        height: 71
+        x: 768
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1305,12 +1305,12 @@ TextureImporter:
       name: UnSheath_37
       rect:
         serializedVersion: 2
-        x: 937
-        y: 639
-        width: 32
-        height: 67
+        x: 896
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1327,12 +1327,12 @@ TextureImporter:
       name: UnSheath_38
       rect:
         serializedVersion: 2
-        x: 1064
-        y: 639
-        width: 39
-        height: 66
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1349,12 +1349,12 @@ TextureImporter:
       name: UnSheath_39
       rect:
         serializedVersion: 2
-        x: 1191
-        y: 639
-        width: 40
-        height: 66
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1371,12 +1371,12 @@ TextureImporter:
       name: UnSheath_40
       rect:
         serializedVersion: 2
-        x: 1320
-        y: 639
-        width: 40
-        height: 67
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1393,12 +1393,12 @@ TextureImporter:
       name: UnSheath_41
       rect:
         serializedVersion: 2
-        x: 1451
+        x: 1408
         y: 640
-        width: 41
-        height: 71
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1415,12 +1415,12 @@ TextureImporter:
       name: UnSheath_42
       rect:
         serializedVersion: 2
-        x: 1588
-        y: 644
-        width: 37
-        height: 70
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1437,12 +1437,12 @@ TextureImporter:
       name: UnSheath_43
       rect:
         serializedVersion: 2
-        x: 1709
-        y: 649
-        width: 45
-        height: 68
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1459,12 +1459,12 @@ TextureImporter:
       name: UnSheath_44
       rect:
         serializedVersion: 2
-        x: 1835
-        y: 649
-        width: 48
-        height: 68
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1481,12 +1481,12 @@ TextureImporter:
       name: UnSheath_45
       rect:
         serializedVersion: 2
-        x: 722
-        y: 639
-        width: 7
-        height: 6
+        x: 0
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1503,12 +1503,12 @@ TextureImporter:
       name: UnSheath_46
       rect:
         serializedVersion: 2
-        x: 39
-        y: 518
-        width: 38
-        height: 72
+        x: 128
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1525,12 +1525,12 @@ TextureImporter:
       name: UnSheath_47
       rect:
         serializedVersion: 2
-        x: 168
-        y: 518
-        width: 37
-        height: 72
+        x: 256
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1547,12 +1547,12 @@ TextureImporter:
       name: UnSheath_48
       rect:
         serializedVersion: 2
-        x: 296
-        y: 517
-        width: 33
-        height: 73
+        x: 384
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1569,12 +1569,12 @@ TextureImporter:
       name: UnSheath_49
       rect:
         serializedVersion: 2
-        x: 422
-        y: 522
-        width: 37
-        height: 67
+        x: 512
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1591,12 +1591,12 @@ TextureImporter:
       name: UnSheath_50
       rect:
         serializedVersion: 2
-        x: 546
-        y: 514
-        width: 39
-        height: 69
+        x: 640
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1613,12 +1613,12 @@ TextureImporter:
       name: UnSheath_51
       rect:
         serializedVersion: 2
-        x: 669
+        x: 768
         y: 512
-        width: 41
-        height: 70
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1635,12 +1635,12 @@ TextureImporter:
       name: UnSheath_52
       rect:
         serializedVersion: 2
-        x: 787
-        y: 511
-        width: 43
-        height: 73
+        x: 896
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1657,12 +1657,12 @@ TextureImporter:
       name: UnSheath_53
       rect:
         serializedVersion: 2
-        x: 910
-        y: 527
-        width: 47
-        height: 57
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1679,12 +1679,12 @@ TextureImporter:
       name: UnSheath_54
       rect:
         serializedVersion: 2
-        x: 1036
-        y: 526
-        width: 49
-        height: 58
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1701,12 +1701,12 @@ TextureImporter:
       name: UnSheath_55
       rect:
         serializedVersion: 2
-        x: 1165
-        y: 525
-        width: 48
-        height: 60
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1723,12 +1723,12 @@ TextureImporter:
       name: UnSheath_56
       rect:
         serializedVersion: 2
-        x: 1294
-        y: 524
-        width: 47
-        height: 61
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1745,12 +1745,12 @@ TextureImporter:
       name: UnSheath_57
       rect:
         serializedVersion: 2
-        x: 1446
-        y: 515
-        width: 27
-        height: 73
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1767,12 +1767,12 @@ TextureImporter:
       name: UnSheath_58
       rect:
         serializedVersion: 2
-        x: 1573
-        y: 516
-        width: 33
-        height: 71
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1789,12 +1789,12 @@ TextureImporter:
       name: UnSheath_59
       rect:
         serializedVersion: 2
-        x: 1702
-        y: 518
-        width: 37
-        height: 72
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1811,12 +1811,12 @@ TextureImporter:
       name: UnSheath_60
       rect:
         serializedVersion: 2
-        x: 1831
-        y: 518
-        width: 38
-        height: 72
+        x: 0
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1833,12 +1833,12 @@ TextureImporter:
       name: UnSheath_61
       rect:
         serializedVersion: 2
-        x: 29
-        y: 402
-        width: 54
-        height: 61
+        x: 128
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1855,12 +1855,12 @@ TextureImporter:
       name: UnSheath_62
       rect:
         serializedVersion: 2
-        x: 158
-        y: 403
-        width: 53
-        height: 60
+        x: 256
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1877,12 +1877,12 @@ TextureImporter:
       name: UnSheath_63
       rect:
         serializedVersion: 2
-        x: 284
-        y: 400
-        width: 52
-        height: 62
+        x: 384
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1899,12 +1899,12 @@ TextureImporter:
       name: UnSheath_64
       rect:
         serializedVersion: 2
-        x: 405
-        y: 413
-        width: 57
-        height: 49
+        x: 512
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1921,12 +1921,12 @@ TextureImporter:
       name: UnSheath_65
       rect:
         serializedVersion: 2
-        x: 528
-        y: 404
-        width: 54
-        height: 58
+        x: 640
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1943,12 +1943,12 @@ TextureImporter:
       name: UnSheath_66
       rect:
         serializedVersion: 2
-        x: 651
-        y: 405
-        width: 56
-        height: 57
+        x: 768
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1965,12 +1965,12 @@ TextureImporter:
       name: UnSheath_67
       rect:
         serializedVersion: 2
-        x: 778
-        y: 401
-        width: 56
-        height: 70
+        x: 896
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1987,12 +1987,12 @@ TextureImporter:
       name: UnSheath_68
       rect:
         serializedVersion: 2
-        x: 906
-        y: 414
-        width: 51
-        height: 54
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2009,12 +2009,12 @@ TextureImporter:
       name: UnSheath_69
       rect:
         serializedVersion: 2
-        x: 1032
-        y: 411
-        width: 61
-        height: 57
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2031,12 +2031,12 @@ TextureImporter:
       name: UnSheath_70
       rect:
         serializedVersion: 2
-        x: 1160
-        y: 411
-        width: 62
-        height: 58
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2053,12 +2053,12 @@ TextureImporter:
       name: UnSheath_71
       rect:
         serializedVersion: 2
-        x: 1289
-        y: 410
-        width: 61
-        height: 59
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2075,12 +2075,12 @@ TextureImporter:
       name: UnSheath_72
       rect:
         serializedVersion: 2
-        x: 1425
-        y: 408
-        width: 53
-        height: 56
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2097,12 +2097,12 @@ TextureImporter:
       name: UnSheath_73
       rect:
         serializedVersion: 2
-        x: 1559
-        y: 404
-        width: 51
-        height: 59
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2119,12 +2119,12 @@ TextureImporter:
       name: UnSheath_74
       rect:
         serializedVersion: 2
-        x: 1692
-        y: 403
-        width: 54
-        height: 60
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2141,12 +2141,12 @@ TextureImporter:
       name: UnSheath_75
       rect:
         serializedVersion: 2
-        x: 1821
-        y: 402
-        width: 53
-        height: 61
+        x: 0
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2163,12 +2163,12 @@ TextureImporter:
       name: UnSheath_76
       rect:
         serializedVersion: 2
-        x: 25
-        y: 284
-        width: 65
-        height: 52
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2185,12 +2185,12 @@ TextureImporter:
       name: UnSheath_77
       rect:
         serializedVersion: 2
-        x: 153
-        y: 284
-        width: 68
-        height: 52
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2207,12 +2207,12 @@ TextureImporter:
       name: UnSheath_78
       rect:
         serializedVersion: 2
-        x: 280
-        y: 287
-        width: 63
-        height: 49
+        x: 384
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2229,12 +2229,12 @@ TextureImporter:
       name: UnSheath_79
       rect:
         serializedVersion: 2
-        x: 413
-        y: 286
-        width: 49
-        height: 51
+        x: 512
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2251,12 +2251,12 @@ TextureImporter:
       name: UnSheath_80
       rect:
         serializedVersion: 2
-        x: 531
-        y: 287
-        width: 48
-        height: 55
+        x: 640
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2273,12 +2273,12 @@ TextureImporter:
       name: UnSheath_81
       rect:
         serializedVersion: 2
-        x: 658
-        y: 289
-        width: 47
-        height: 56
+        x: 768
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2295,12 +2295,12 @@ TextureImporter:
       name: UnSheath_82
       rect:
         serializedVersion: 2
-        x: 779
-        y: 294
-        width: 62
-        height: 57
+        x: 896
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2317,12 +2317,12 @@ TextureImporter:
       name: UnSheath_83
       rect:
         serializedVersion: 2
-        x: 933
-        y: 295
-        width: 32
-        height: 54
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2339,12 +2339,12 @@ TextureImporter:
       name: UnSheath_84
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 295
-        width: 46
-        height: 55
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2361,12 +2361,12 @@ TextureImporter:
       name: UnSheath_85
       rect:
         serializedVersion: 2
-        x: 1186
-        y: 295
-        width: 51
-        height: 54
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2383,12 +2383,12 @@ TextureImporter:
       name: UnSheath_86
       rect:
         serializedVersion: 2
-        x: 1314
-        y: 295
-        width: 52
-        height: 54
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2405,12 +2405,12 @@ TextureImporter:
       name: UnSheath_87
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 292
-        width: 56
-        height: 50
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2427,12 +2427,12 @@ TextureImporter:
       name: UnSheath_88
       rect:
         serializedVersion: 2
-        x: 1558
-        y: 289
-        width: 56
-        height: 51
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2449,12 +2449,12 @@ TextureImporter:
       name: UnSheath_89
       rect:
         serializedVersion: 2
-        x: 1690
-        y: 286
-        width: 60
-        height: 52
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2471,12 +2471,12 @@ TextureImporter:
       name: UnSheath_90
       rect:
         serializedVersion: 2
-        x: 1817
-        y: 284
-        width: 65
-        height: 52
+        x: 0
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2493,12 +2493,12 @@ TextureImporter:
       name: UnSheath_91
       rect:
         serializedVersion: 2
-        x: 42
-        y: 151
-        width: 47
-        height: 63
+        x: 128
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2515,12 +2515,12 @@ TextureImporter:
       name: UnSheath_92
       rect:
         serializedVersion: 2
-        x: 170
-        y: 151
-        width: 48
-        height: 64
+        x: 256
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2537,12 +2537,12 @@ TextureImporter:
       name: UnSheath_93
       rect:
         serializedVersion: 2
-        x: 295
-        y: 154
-        width: 44
-        height: 66
+        x: 384
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2559,12 +2559,12 @@ TextureImporter:
       name: UnSheath_94
       rect:
         serializedVersion: 2
-        x: 440
-        y: 155
-        width: 25
-        height: 63
+        x: 512
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2581,12 +2581,12 @@ TextureImporter:
       name: UnSheath_95
       rect:
         serializedVersion: 2
-        x: 556
-        y: 161
-        width: 32
-        height: 64
+        x: 640
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2603,12 +2603,12 @@ TextureImporter:
       name: UnSheath_96
       rect:
         serializedVersion: 2
-        x: 686
-        y: 163
-        width: 29
-        height: 66
+        x: 768
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2625,12 +2625,12 @@ TextureImporter:
       name: UnSheath_97
       rect:
         serializedVersion: 2
-        x: 807
-        y: 165
-        width: 61
-        height: 61
+        x: 896
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2647,12 +2647,12 @@ TextureImporter:
       name: UnSheath_98
       rect:
         serializedVersion: 2
-        x: 953
-        y: 167
-        width: 35
-        height: 56
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2669,12 +2669,12 @@ TextureImporter:
       name: UnSheath_99
       rect:
         serializedVersion: 2
-        x: 1079
-        y: 161
-        width: 39
-        height: 63
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2691,12 +2691,12 @@ TextureImporter:
       name: UnSheath_100
       rect:
         serializedVersion: 2
-        x: 1206
-        y: 161
-        width: 40
-        height: 63
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2713,12 +2713,12 @@ TextureImporter:
       name: UnSheath_101
       rect:
         serializedVersion: 2
-        x: 1333
-        y: 161
-        width: 41
-        height: 62
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2735,12 +2735,12 @@ TextureImporter:
       name: UnSheath_102
       rect:
         serializedVersion: 2
-        x: 1457
-        y: 161
-        width: 37
-        height: 62
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2757,12 +2757,12 @@ TextureImporter:
       name: UnSheath_103
       rect:
         serializedVersion: 2
-        x: 1581
-        y: 158
-        width: 34
-        height: 64
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2779,12 +2779,12 @@ TextureImporter:
       name: UnSheath_104
       rect:
         serializedVersion: 2
-        x: 1707
-        y: 154
-        width: 44
-        height: 62
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2801,12 +2801,12 @@ TextureImporter:
       name: UnSheath_105
       rect:
         serializedVersion: 2
-        x: 1834
-        y: 152
-        width: 47
-        height: 63
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2823,12 +2823,12 @@ TextureImporter:
       name: UnSheath_106
       rect:
         serializedVersion: 2
-        x: 55
-        y: 19
-        width: 37
-        height: 71
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2845,12 +2845,12 @@ TextureImporter:
       name: UnSheath_107
       rect:
         serializedVersion: 2
-        x: 184
-        y: 17
-        width: 35
-        height: 73
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2867,12 +2867,12 @@ TextureImporter:
       name: UnSheath_108
       rect:
         serializedVersion: 2
-        x: 315
-        y: 21
-        width: 32
-        height: 75
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2889,12 +2889,12 @@ TextureImporter:
       name: UnSheath_109
       rect:
         serializedVersion: 2
-        x: 441
-        y: 28
-        width: 38
-        height: 57
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2911,12 +2911,12 @@ TextureImporter:
       name: UnSheath_110
       rect:
         serializedVersion: 2
-        x: 571
-        y: 35
-        width: 38
-        height: 63
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2933,12 +2933,12 @@ TextureImporter:
       name: UnSheath_111
       rect:
         serializedVersion: 2
-        x: 702
-        y: 37
-        width: 41
-        height: 64
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2955,12 +2955,12 @@ TextureImporter:
       name: UnSheath_112
       rect:
         serializedVersion: 2
-        x: 835
-        y: 32
-        width: 48
-        height: 63
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2977,12 +2977,12 @@ TextureImporter:
       name: UnSheath_113
       rect:
         serializedVersion: 2
-        x: 965
-        y: 33
-        width: 49
-        height: 54
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2999,12 +2999,12 @@ TextureImporter:
       name: UnSheath_114
       rect:
         serializedVersion: 2
-        x: 1093
-        y: 24
-        width: 51
-        height: 62
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3021,12 +3021,12 @@ TextureImporter:
       name: UnSheath_115
       rect:
         serializedVersion: 2
-        x: 1221
-        y: 22
-        width: 50
-        height: 64
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3043,12 +3043,12 @@ TextureImporter:
       name: UnSheath_116
       rect:
         serializedVersion: 2
-        x: 1348
-        y: 21
-        width: 50
-        height: 65
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3065,12 +3065,12 @@ TextureImporter:
       name: UnSheath_117
       rect:
         serializedVersion: 2
-        x: 1473
-        y: 28
-        width: 28
-        height: 65
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3087,12 +3087,12 @@ TextureImporter:
       name: UnSheath_118
       rect:
         serializedVersion: 2
-        x: 1597
-        y: 28
-        width: 34
-        height: 66
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3109,12 +3109,12 @@ TextureImporter:
       name: UnSheath_119
       rect:
         serializedVersion: 2
-        x: 1721
-        y: 22
-        width: 36
-        height: 69
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3127,33 +3127,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: UnSheath_120
-      rect:
-        serializedVersion: 2
-        x: 1848
-        y: 19
-        width: 36
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f52a90884f9a56c0800000000000000
-      internalID: -4153832572551813639
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 745fcebe923acbd4a876baf23ac3fa85
     internalID: 0
     vertices: []
     indices: 
@@ -3161,7 +3139,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       UnSheath_0: 6934881177229221499
       UnSheath_1: -998864237516949298
@@ -3188,7 +3168,6 @@ TextureImporter:
       UnSheath_118: 2053458704807924797
       UnSheath_119: -110556912885158400
       UnSheath_12: 1326671283727649669
-      UnSheath_120: -4153832572551813639
       UnSheath_13: -3174186786905023427
       UnSheath_14: -7667584245813370907
       UnSheath_15: -4413003204412553623

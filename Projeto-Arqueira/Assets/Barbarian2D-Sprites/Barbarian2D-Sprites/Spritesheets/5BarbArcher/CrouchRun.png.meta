@@ -409,7 +409,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -503,12 +503,12 @@ TextureImporter:
       name: CrouchRun_0
       rect:
         serializedVersion: 2
-        x: 46
-        y: 918
-        width: 52
-        height: 45
+        x: 0
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -525,12 +525,12 @@ TextureImporter:
       name: CrouchRun_1
       rect:
         serializedVersion: 2
-        x: 174
-        y: 918
-        width: 52
-        height: 46
+        x: 128
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -547,12 +547,12 @@ TextureImporter:
       name: CrouchRun_2
       rect:
         serializedVersion: 2
-        x: 303
-        y: 918
-        width: 52
-        height: 46
+        x: 256
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -569,12 +569,12 @@ TextureImporter:
       name: CrouchRun_3
       rect:
         serializedVersion: 2
-        x: 430
-        y: 919
-        width: 55
-        height: 46
+        x: 384
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -591,12 +591,12 @@ TextureImporter:
       name: CrouchRun_4
       rect:
         serializedVersion: 2
-        x: 555
-        y: 920
-        width: 58
-        height: 45
+        x: 512
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -613,12 +613,12 @@ TextureImporter:
       name: CrouchRun_5
       rect:
         serializedVersion: 2
-        x: 686
-        y: 921
-        width: 55
-        height: 44
+        x: 640
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -635,12 +635,12 @@ TextureImporter:
       name: CrouchRun_6
       rect:
         serializedVersion: 2
-        x: 817
-        y: 920
-        width: 51
-        height: 45
+        x: 768
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -657,12 +657,12 @@ TextureImporter:
       name: CrouchRun_7
       rect:
         serializedVersion: 2
-        x: 943
-        y: 920
-        width: 52
-        height: 45
+        x: 896
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -679,12 +679,12 @@ TextureImporter:
       name: CrouchRun_8
       rect:
         serializedVersion: 2
-        x: 1072
-        y: 922
-        width: 49
-        height: 42
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -701,12 +701,12 @@ TextureImporter:
       name: CrouchRun_9
       rect:
         serializedVersion: 2
-        x: 1098
-        y: 918
-        width: 8
-        height: 6
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -723,12 +723,12 @@ TextureImporter:
       name: CrouchRun_10
       rect:
         serializedVersion: 2
-        x: 1201
-        y: 917
-        width: 47
-        height: 47
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -745,12 +745,12 @@ TextureImporter:
       name: CrouchRun_11
       rect:
         serializedVersion: 2
-        x: 1330
-        y: 917
-        width: 46
-        height: 45
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -767,12 +767,12 @@ TextureImporter:
       name: CrouchRun_12
       rect:
         serializedVersion: 2
-        x: 1457
-        y: 916
-        width: 49
-        height: 44
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -789,12 +789,12 @@ TextureImporter:
       name: CrouchRun_13
       rect:
         serializedVersion: 2
-        x: 1585
-        y: 916
-        width: 48
-        height: 43
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -811,12 +811,12 @@ TextureImporter:
       name: CrouchRun_14
       rect:
         serializedVersion: 2
-        x: 1713
-        y: 919
-        width: 48
-        height: 42
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -833,12 +833,12 @@ TextureImporter:
       name: CrouchRun_15
       rect:
         serializedVersion: 2
-        x: 1737
-        y: 916
-        width: 7
-        height: 6
+        x: 0
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -855,12 +855,12 @@ TextureImporter:
       name: CrouchRun_16
       rect:
         serializedVersion: 2
-        x: 1839
-        y: 917
-        width: 50
-        height: 45
+        x: 128
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -877,12 +877,12 @@ TextureImporter:
       name: CrouchRun_17
       rect:
         serializedVersion: 2
-        x: 41
-        y: 784
-        width: 59
-        height: 48
+        x: 256
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -899,12 +899,12 @@ TextureImporter:
       name: CrouchRun_18
       rect:
         serializedVersion: 2
-        x: 169
-        y: 785
-        width: 59
-        height: 48
+        x: 384
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -921,12 +921,12 @@ TextureImporter:
       name: CrouchRun_19
       rect:
         serializedVersion: 2
-        x: 297
-        y: 785
-        width: 59
-        height: 48
+        x: 512
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -943,12 +943,12 @@ TextureImporter:
       name: CrouchRun_20
       rect:
         serializedVersion: 2
-        x: 427
-        y: 785
-        width: 60
-        height: 46
+        x: 640
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -965,12 +965,12 @@ TextureImporter:
       name: CrouchRun_21
       rect:
         serializedVersion: 2
-        x: 555
-        y: 785
-        width: 62
-        height: 46
+        x: 768
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -987,12 +987,12 @@ TextureImporter:
       name: CrouchRun_22
       rect:
         serializedVersion: 2
-        x: 686
-        y: 785
-        width: 53
-        height: 47
+        x: 896
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1009,12 +1009,12 @@ TextureImporter:
       name: CrouchRun_23
       rect:
         serializedVersion: 2
-        x: 735
-        y: 792
-        width: 10
-        height: 7
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1031,12 +1031,12 @@ TextureImporter:
       name: CrouchRun_24
       rect:
         serializedVersion: 2
-        x: 814
-        y: 785
-        width: 59
-        height: 48
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1053,12 +1053,12 @@ TextureImporter:
       name: CrouchRun_25
       rect:
         serializedVersion: 2
-        x: 942
-        y: 786
-        width: 58
-        height: 47
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1075,12 +1075,12 @@ TextureImporter:
       name: CrouchRun_26
       rect:
         serializedVersion: 2
-        x: 1070
-        y: 787
-        width: 57
-        height: 47
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1097,12 +1097,12 @@ TextureImporter:
       name: CrouchRun_27
       rect:
         serializedVersion: 2
-        x: 1199
-        y: 787
-        width: 55
-        height: 46
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1119,12 +1119,12 @@ TextureImporter:
       name: CrouchRun_28
       rect:
         serializedVersion: 2
-        x: 1327
-        y: 787
-        width: 50
-        height: 45
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1141,12 +1141,12 @@ TextureImporter:
       name: CrouchRun_29
       rect:
         serializedVersion: 2
-        x: 1369
-        y: 793
-        width: 13
-        height: 9
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1163,12 +1163,12 @@ TextureImporter:
       name: CrouchRun_30
       rect:
         serializedVersion: 2
-        x: 1455
-        y: 785
-        width: 55
-        height: 47
+        x: 0
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1185,12 +1185,12 @@ TextureImporter:
       name: CrouchRun_31
       rect:
         serializedVersion: 2
-        x: 1582
-        y: 784
-        width: 55
-        height: 48
+        x: 128
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1207,12 +1207,12 @@ TextureImporter:
       name: CrouchRun_32
       rect:
         serializedVersion: 2
-        x: 1708
-        y: 784
-        width: 56
-        height: 48
+        x: 256
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1229,12 +1229,12 @@ TextureImporter:
       name: CrouchRun_33
       rect:
         serializedVersion: 2
-        x: 1834
-        y: 784
-        width: 59
-        height: 49
+        x: 384
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1251,12 +1251,12 @@ TextureImporter:
       name: CrouchRun_34
       rect:
         serializedVersion: 2
-        x: 45
-        y: 653
-        width: 38
-        height: 56
+        x: 512
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1273,12 +1273,12 @@ TextureImporter:
       name: CrouchRun_35
       rect:
         serializedVersion: 2
-        x: 174
-        y: 652
-        width: 37
-        height: 57
+        x: 640
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1295,12 +1295,12 @@ TextureImporter:
       name: CrouchRun_36
       rect:
         serializedVersion: 2
-        x: 303
-        y: 652
-        width: 36
-        height: 56
+        x: 768
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1317,12 +1317,12 @@ TextureImporter:
       name: CrouchRun_37
       rect:
         serializedVersion: 2
-        x: 432
-        y: 651
-        width: 37
-        height: 56
+        x: 896
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1339,12 +1339,12 @@ TextureImporter:
       name: CrouchRun_38
       rect:
         serializedVersion: 2
-        x: 560
-        y: 651
-        width: 38
-        height: 55
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1361,12 +1361,12 @@ TextureImporter:
       name: CrouchRun_39
       rect:
         serializedVersion: 2
-        x: 688
-        y: 651
-        width: 39
-        height: 55
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1383,12 +1383,12 @@ TextureImporter:
       name: CrouchRun_40
       rect:
         serializedVersion: 2
-        x: 816
-        y: 651
-        width: 40
-        height: 56
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1405,12 +1405,12 @@ TextureImporter:
       name: CrouchRun_41
       rect:
         serializedVersion: 2
-        x: 943
-        y: 652
-        width: 41
-        height: 55
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1427,12 +1427,12 @@ TextureImporter:
       name: CrouchRun_42
       rect:
         serializedVersion: 2
-        x: 1069
-        y: 653
-        width: 44
-        height: 55
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1449,12 +1449,12 @@ TextureImporter:
       name: CrouchRun_43
       rect:
         serializedVersion: 2
-        x: 1196
-        y: 654
-        width: 45
-        height: 53
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1471,12 +1471,12 @@ TextureImporter:
       name: CrouchRun_44
       rect:
         serializedVersion: 2
-        x: 1323
-        y: 662
-        width: 11
-        height: 9
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1493,12 +1493,12 @@ TextureImporter:
       name: CrouchRun_45
       rect:
         serializedVersion: 2
-        x: 1324
-        y: 654
-        width: 44
-        height: 53
+        x: 0
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1515,12 +1515,12 @@ TextureImporter:
       name: CrouchRun_46
       rect:
         serializedVersion: 2
-        x: 1450
-        y: 653
-        width: 44
-        height: 53
+        x: 128
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1537,12 +1537,12 @@ TextureImporter:
       name: CrouchRun_47
       rect:
         serializedVersion: 2
-        x: 1578
-        y: 653
-        width: 43
-        height: 53
+        x: 256
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1559,12 +1559,12 @@ TextureImporter:
       name: CrouchRun_48
       rect:
         serializedVersion: 2
-        x: 1706
-        y: 654
-        width: 43
-        height: 53
+        x: 384
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1581,12 +1581,12 @@ TextureImporter:
       name: CrouchRun_49
       rect:
         serializedVersion: 2
-        x: 1835
-        y: 653
-        width: 41
-        height: 56
+        x: 512
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1603,12 +1603,12 @@ TextureImporter:
       name: CrouchRun_50
       rect:
         serializedVersion: 2
-        x: 38
-        y: 523
-        width: 34
-        height: 59
+        x: 640
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1625,12 +1625,12 @@ TextureImporter:
       name: CrouchRun_51
       rect:
         serializedVersion: 2
-        x: 167
-        y: 523
-        width: 34
-        height: 59
+        x: 768
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1647,12 +1647,12 @@ TextureImporter:
       name: CrouchRun_52
       rect:
         serializedVersion: 2
-        x: 295
-        y: 523
-        width: 36
-        height: 59
+        x: 896
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1669,12 +1669,12 @@ TextureImporter:
       name: CrouchRun_53
       rect:
         serializedVersion: 2
-        x: 423
-        y: 521
-        width: 39
-        height: 59
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1691,12 +1691,12 @@ TextureImporter:
       name: CrouchRun_54
       rect:
         serializedVersion: 2
-        x: 551
-        y: 520
-        width: 40
-        height: 59
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1713,12 +1713,12 @@ TextureImporter:
       name: CrouchRun_55
       rect:
         serializedVersion: 2
-        x: 679
-        y: 520
-        width: 37
-        height: 58
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1735,12 +1735,12 @@ TextureImporter:
       name: CrouchRun_56
       rect:
         serializedVersion: 2
-        x: 808
-        y: 520
-        width: 33
-        height: 59
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1757,12 +1757,12 @@ TextureImporter:
       name: CrouchRun_57
       rect:
         serializedVersion: 2
-        x: 937
-        y: 521
-        width: 33
-        height: 59
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1779,12 +1779,12 @@ TextureImporter:
       name: CrouchRun_58
       rect:
         serializedVersion: 2
-        x: 1066
-        y: 521
-        width: 32
-        height: 59
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1801,12 +1801,12 @@ TextureImporter:
       name: CrouchRun_59
       rect:
         serializedVersion: 2
-        x: 1193
-        y: 522
-        width: 35
-        height: 58
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1823,12 +1823,12 @@ TextureImporter:
       name: CrouchRun_60
       rect:
         serializedVersion: 2
-        x: 1322
-        y: 522
-        width: 35
-        height: 58
+        x: 0
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1845,12 +1845,12 @@ TextureImporter:
       name: CrouchRun_61
       rect:
         serializedVersion: 2
-        x: 1447
-        y: 522
-        width: 39
-        height: 57
+        x: 128
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1867,12 +1867,12 @@ TextureImporter:
       name: CrouchRun_62
       rect:
         serializedVersion: 2
-        x: 1574
-        y: 523
-        width: 41
-        height: 57
+        x: 256
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1889,12 +1889,12 @@ TextureImporter:
       name: CrouchRun_63
       rect:
         serializedVersion: 2
-        x: 1702
-        y: 523
-        width: 35
-        height: 59
+        x: 384
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1911,12 +1911,12 @@ TextureImporter:
       name: CrouchRun_64
       rect:
         serializedVersion: 2
-        x: 1830
-        y: 523
-        width: 34
-        height: 59
+        x: 512
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1933,12 +1933,12 @@ TextureImporter:
       name: CrouchRun_65
       rect:
         serializedVersion: 2
-        x: 33
-        y: 408
-        width: 52
-        height: 51
+        x: 640
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1955,12 +1955,12 @@ TextureImporter:
       name: CrouchRun_66
       rect:
         serializedVersion: 2
-        x: 160
-        y: 408
-        width: 53
-        height: 51
+        x: 768
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1977,12 +1977,12 @@ TextureImporter:
       name: CrouchRun_67
       rect:
         serializedVersion: 2
-        x: 288
-        y: 408
-        width: 53
-        height: 51
+        x: 896
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1999,12 +1999,12 @@ TextureImporter:
       name: CrouchRun_68
       rect:
         serializedVersion: 2
-        x: 414
-        y: 406
-        width: 53
-        height: 52
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2021,12 +2021,12 @@ TextureImporter:
       name: CrouchRun_69
       rect:
         serializedVersion: 2
-        x: 542
-        y: 406
-        width: 57
-        height: 51
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2043,12 +2043,12 @@ TextureImporter:
       name: CrouchRun_70
       rect:
         serializedVersion: 2
-        x: 670
-        y: 404
-        width: 53
-        height: 53
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2065,12 +2065,12 @@ TextureImporter:
       name: CrouchRun_71
       rect:
         serializedVersion: 2
-        x: 798
-        y: 404
-        width: 51
-        height: 52
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2087,12 +2087,12 @@ TextureImporter:
       name: CrouchRun_72
       rect:
         serializedVersion: 2
-        x: 928
-        y: 404
-        width: 52
-        height: 52
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2109,12 +2109,12 @@ TextureImporter:
       name: CrouchRun_73
       rect:
         serializedVersion: 2
-        x: 1057
-        y: 404
-        width: 50
-        height: 51
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2131,12 +2131,12 @@ TextureImporter:
       name: CrouchRun_74
       rect:
         serializedVersion: 2
-        x: 1186
-        y: 403
-        width: 48
-        height: 52
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2153,12 +2153,12 @@ TextureImporter:
       name: CrouchRun_75
       rect:
         serializedVersion: 2
-        x: 1314
-        y: 404
-        width: 48
-        height: 51
+        x: 0
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2175,12 +2175,12 @@ TextureImporter:
       name: CrouchRun_76
       rect:
         serializedVersion: 2
-        x: 1441
-        y: 406
-        width: 48
-        height: 49
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2197,12 +2197,12 @@ TextureImporter:
       name: CrouchRun_77
       rect:
         serializedVersion: 2
-        x: 1569
-        y: 406
-        width: 48
-        height: 51
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2219,12 +2219,12 @@ TextureImporter:
       name: CrouchRun_78
       rect:
         serializedVersion: 2
-        x: 1698
-        y: 406
-        width: 49
-        height: 52
+        x: 384
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2241,12 +2241,12 @@ TextureImporter:
       name: CrouchRun_79
       rect:
         serializedVersion: 2
-        x: 1825
-        y: 407
-        width: 52
-        height: 52
+        x: 512
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2263,12 +2263,12 @@ TextureImporter:
       name: CrouchRun_80
       rect:
         serializedVersion: 2
-        x: 31
-        y: 288
-        width: 59
-        height: 47
+        x: 640
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2285,12 +2285,12 @@ TextureImporter:
       name: CrouchRun_81
       rect:
         serializedVersion: 2
-        x: 159
-        y: 287
-        width: 59
-        height: 48
+        x: 768
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2307,12 +2307,12 @@ TextureImporter:
       name: CrouchRun_82
       rect:
         serializedVersion: 2
-        x: 287
-        y: 285
-        width: 60
-        height: 49
+        x: 896
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2329,12 +2329,12 @@ TextureImporter:
       name: CrouchRun_83
       rect:
         serializedVersion: 2
-        x: 412
-        y: 283
-        width: 61
-        height: 51
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2351,12 +2351,12 @@ TextureImporter:
       name: CrouchRun_84
       rect:
         serializedVersion: 2
-        x: 539
-        y: 282
-        width: 60
-        height: 52
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2373,12 +2373,12 @@ TextureImporter:
       name: CrouchRun_85
       rect:
         serializedVersion: 2
-        x: 666
-        y: 284
-        width: 59
-        height: 50
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2395,12 +2395,12 @@ TextureImporter:
       name: CrouchRun_86
       rect:
         serializedVersion: 2
-        x: 794
-        y: 287
-        width: 59
-        height: 47
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2417,12 +2417,12 @@ TextureImporter:
       name: CrouchRun_87
       rect:
         serializedVersion: 2
-        x: 923
-        y: 285
-        width: 58
-        height: 49
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2439,12 +2439,12 @@ TextureImporter:
       name: CrouchRun_88
       rect:
         serializedVersion: 2
-        x: 1051
-        y: 285
-        width: 58
-        height: 48
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2461,12 +2461,12 @@ TextureImporter:
       name: CrouchRun_89
       rect:
         serializedVersion: 2
-        x: 1181
-        y: 284
-        width: 55
-        height: 48
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2483,12 +2483,12 @@ TextureImporter:
       name: CrouchRun_90
       rect:
         serializedVersion: 2
-        x: 1308
-        y: 283
-        width: 57
-        height: 50
+        x: 0
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2505,12 +2505,12 @@ TextureImporter:
       name: CrouchRun_91
       rect:
         serializedVersion: 2
-        x: 1437
-        y: 283
-        width: 55
-        height: 51
+        x: 128
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2527,12 +2527,12 @@ TextureImporter:
       name: CrouchRun_92
       rect:
         serializedVersion: 2
-        x: 1566
-        y: 283
-        width: 55
-        height: 51
+        x: 256
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2549,12 +2549,12 @@ TextureImporter:
       name: CrouchRun_93
       rect:
         serializedVersion: 2
-        x: 1694
-        y: 286
-        width: 58
-        height: 49
+        x: 384
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2571,12 +2571,12 @@ TextureImporter:
       name: CrouchRun_94
       rect:
         serializedVersion: 2
-        x: 1823
-        y: 288
-        width: 59
-        height: 47
+        x: 512
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2593,12 +2593,12 @@ TextureImporter:
       name: CrouchRun_95
       rect:
         serializedVersion: 2
-        x: 48
-        y: 150
-        width: 38
-        height: 54
+        x: 640
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2615,12 +2615,12 @@ TextureImporter:
       name: CrouchRun_96
       rect:
         serializedVersion: 2
-        x: 177
-        y: 150
-        width: 37
-        height: 54
+        x: 768
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2637,12 +2637,12 @@ TextureImporter:
       name: CrouchRun_97
       rect:
         serializedVersion: 2
-        x: 304
-        y: 150
-        width: 37
-        height: 55
+        x: 896
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2659,12 +2659,12 @@ TextureImporter:
       name: CrouchRun_98
       rect:
         serializedVersion: 2
-        x: 430
-        y: 151
-        width: 38
-        height: 54
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2681,12 +2681,12 @@ TextureImporter:
       name: CrouchRun_99
       rect:
         serializedVersion: 2
-        x: 557
-        y: 148
-        width: 38
-        height: 57
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2703,12 +2703,12 @@ TextureImporter:
       name: CrouchRun_100
       rect:
         serializedVersion: 2
-        x: 684
-        y: 151
-        width: 38
-        height: 54
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2725,12 +2725,12 @@ TextureImporter:
       name: CrouchRun_101
       rect:
         serializedVersion: 2
-        x: 811
-        y: 152
-        width: 38
-        height: 53
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2747,12 +2747,12 @@ TextureImporter:
       name: CrouchRun_102
       rect:
         serializedVersion: 2
-        x: 939
-        y: 151
-        width: 39
-        height: 54
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2769,12 +2769,12 @@ TextureImporter:
       name: CrouchRun_103
       rect:
         serializedVersion: 2
-        x: 1066
-        y: 151
-        width: 42
-        height: 54
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2791,12 +2791,12 @@ TextureImporter:
       name: CrouchRun_104
       rect:
         serializedVersion: 2
-        x: 1194
-        y: 152
-        width: 43
-        height: 53
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2813,12 +2813,12 @@ TextureImporter:
       name: CrouchRun_105
       rect:
         serializedVersion: 2
-        x: 1322
-        y: 152
-        width: 44
-        height: 53
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2835,12 +2835,12 @@ TextureImporter:
       name: CrouchRun_106
       rect:
         serializedVersion: 2
-        x: 1453
-        y: 153
-        width: 42
-        height: 52
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2857,12 +2857,12 @@ TextureImporter:
       name: CrouchRun_107
       rect:
         serializedVersion: 2
-        x: 1582
-        y: 153
-        width: 42
-        height: 53
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2879,12 +2879,12 @@ TextureImporter:
       name: CrouchRun_108
       rect:
         serializedVersion: 2
-        x: 1710
-        y: 152
-        width: 41
-        height: 53
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2901,12 +2901,12 @@ TextureImporter:
       name: CrouchRun_109
       rect:
         serializedVersion: 2
-        x: 1839
-        y: 150
-        width: 38
-        height: 55
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2923,12 +2923,12 @@ TextureImporter:
       name: CrouchRun_110
       rect:
         serializedVersion: 2
-        x: 59
-        y: 19
-        width: 35
-        height: 58
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2945,12 +2945,12 @@ TextureImporter:
       name: CrouchRun_111
       rect:
         serializedVersion: 2
-        x: 184
-        y: 18
-        width: 37
-        height: 60
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2967,12 +2967,12 @@ TextureImporter:
       name: CrouchRun_112
       rect:
         serializedVersion: 2
-        x: 311
-        y: 18
-        width: 38
-        height: 60
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2989,12 +2989,12 @@ TextureImporter:
       name: CrouchRun_113
       rect:
         serializedVersion: 2
-        x: 435
-        y: 20
-        width: 42
-        height: 59
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3011,12 +3011,12 @@ TextureImporter:
       name: CrouchRun_114
       rect:
         serializedVersion: 2
-        x: 563
-        y: 21
-        width: 42
-        height: 59
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3033,12 +3033,12 @@ TextureImporter:
       name: CrouchRun_115
       rect:
         serializedVersion: 2
-        x: 693
-        y: 23
-        width: 40
-        height: 56
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3055,12 +3055,12 @@ TextureImporter:
       name: CrouchRun_116
       rect:
         serializedVersion: 2
-        x: 826
-        y: 23
-        width: 35
-        height: 56
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3077,12 +3077,12 @@ TextureImporter:
       name: CrouchRun_117
       rect:
         serializedVersion: 2
-        x: 952
-        y: 22
-        width: 35
-        height: 56
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3099,12 +3099,12 @@ TextureImporter:
       name: CrouchRun_118
       rect:
         serializedVersion: 2
-        x: 1080
-        y: 22
-        width: 34
-        height: 55
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3121,12 +3121,12 @@ TextureImporter:
       name: CrouchRun_119
       rect:
         serializedVersion: 2
-        x: 1206
-        y: 22
-        width: 35
-        height: 53
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3139,121 +3139,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: CrouchRun_120
-      rect:
-        serializedVersion: 2
-        x: 1332
-        y: 23
-        width: 38
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3dd7047db8909940800000000000000
-      internalID: 5300904700877987131
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CrouchRun_121
-      rect:
-        serializedVersion: 2
-        x: 1459
-        y: 23
-        width: 41
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3352c2f2627f99ca0800000000000000
-      internalID: -6009500484376976077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CrouchRun_122
-      rect:
-        serializedVersion: 2
-        x: 1587
-        y: 22
-        width: 43
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 971ac865b1e2c25a0800000000000000
-      internalID: -6544805463525121671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CrouchRun_123
-      rect:
-        serializedVersion: 2
-        x: 1720
-        y: 20
-        width: 38
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0384cf622ffc76db0800000000000000
-      internalID: -4798638238996871120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CrouchRun_124
-      rect:
-        serializedVersion: 2
-        x: 1852
-        y: 19
-        width: 34
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a6d420c6b0d6b4f0800000000000000
-      internalID: -813233199367530847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 13369cec1bbcffb469c47c19082e4e1b
     internalID: 0
     vertices: []
     indices: 
@@ -3261,7 +3151,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       CrouchRun_0: -6257729953835351076
       CrouchRun_1: -8555851420963645601
@@ -3288,11 +3180,6 @@ TextureImporter:
       CrouchRun_118: 6025525882126347549
       CrouchRun_119: 3483846629939593041
       CrouchRun_12: 2352997340128646867
-      CrouchRun_120: 5300904700877987131
-      CrouchRun_121: -6009500484376976077
-      CrouchRun_122: -6544805463525121671
-      CrouchRun_123: -4798638238996871120
-      CrouchRun_124: -813233199367530847
       CrouchRun_13: -8934389203428822504
       CrouchRun_14: -2212397252221384213
       CrouchRun_15: -3097579997655092575
