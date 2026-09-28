@@ -11,7 +11,7 @@ public class PlayerAnimation : MonoBehaviour
     [Header("Combo")]
     [SerializeField] float comboResetTime = 1f; // tempo sem atacar para voltar ao Attack1
 
-    [Header("Teclas (troque pelas suas)")]
+    [Header("Teclas")]
     [SerializeField] Key runKey = Key.LeftShift;
     [SerializeField] Key crouchKey = Key.C;
     [SerializeField] Key quickShotKey = Key.Q;
