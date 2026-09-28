@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 8511046713590137373}
   - component: {fileID: 615146612771177530}
-  - component: {fileID: 3287649422278128191}
   - component: {fileID: 5118668725076848145}
+  - component: {fileID: 2062805549332501653}
   m_Layer: 0
   m_Name: ArrowPrefab
   m_TagString: Untagged
@@ -36,6 +36,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &615146612771177530
 SpriteRenderer:
+  serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -51,6 +52,11 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -72,44 +78,25 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 165
-  m_Sprite: {fileID: 21300000, guid: 00b96dc37cecbd745a33bcc886d0059d, type: 3}
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: -4209461767521648114, guid: 9e0dd395b9e64ea4f9e5cbb75f7b5db1, type: 3}
   m_Color: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.28, y: 0.26}
+  m_Size: {x: 5.12, y: 0.26}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &3287649422278128191
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6202462865118328157}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 98bf8d5a49087f947998da7b785b771a, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
+  m_BlendShapeWeights: []
 --- !u!50 &5118668725076848145
 Rigidbody2D:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -120,8 +107,8 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -134,3 +121,33 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &2062805549332501653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6202462865118328157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6652757637a9cf743b63f186ce987eeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
+  frames:
+  - {fileID: -4209461767521648114, guid: 9e0dd395b9e64ea4f9e5cbb75f7b5db1, type: 3}
+  - {fileID: 5453481469928959302, guid: b11272962aaaaff45bea3d7ca05ab1d3, type: 3}
+  - {fileID: -7839056689181992794, guid: 0e7a8ab09e8478a40846cfb436620ca2, type: 3}
+  - {fileID: -7866962194647477418, guid: 3b6e0e2ce033fac499154c8f89ea831b, type: 3}
+  - {fileID: 3965758638191431310, guid: 6ca24858ecc1cfb4c8697ac7d488e603, type: 3}
+  - {fileID: 2066082498040014989, guid: bbb7cabed1d9a594b970f45e07a7a3f8, type: 3}
+  - {fileID: 2407195833089805127, guid: 2f429344fbb010140ae201b3b53c2791, type: 3}
+  - {fileID: 1734450685577689515, guid: 6320c3d5a22f4234c8a3e2c698d9ccb1, type: 3}
+  - {fileID: 1277467883169801574, guid: 3c14d896ca7387e42ad7a1cd3053c4c1, type: 3}
+  - {fileID: -3754417209682020004, guid: b21683b847d3d6542b33db47cf2038aa, type: 3}
+  - {fileID: 7603346641494398268, guid: 727acc23b8a7cbe4688743302fd0bf50, type: 3}
+  - {fileID: 5173698173098673835, guid: cabbaf6c1fd926944a2861cce6088a6a, type: 3}
+  - {fileID: 5886519731604704116, guid: 75f7b1ca9d6e6f042b898291643a8cd8, type: 3}
+  - {fileID: 7942963812657439901, guid: 02ce2f3d0c886d642835360ab388c575, type: 3}
+  - {fileID: 4032061950642251715, guid: 2a93c39398ca72e469725b1d7ca9a902, type: 3}
+  fps: 12
+  loop: 1

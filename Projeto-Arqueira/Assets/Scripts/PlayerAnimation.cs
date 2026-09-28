@@ -21,6 +21,8 @@ public class PlayerAnimation : MonoBehaviour
     [SerializeField] Key ability2Key = Key.Digit2;
     [SerializeField] Key rollKey = Key.LeftCtrl;
     [SerializeField] Key frontFlipKey = Key.Space;
+    [SerializeField] Key hitKey = Key.H;   // teste: levar dano
+    [SerializeField] Key dieKey = Key.K;   // teste: morrer
     // Ataque = botão esquerdo do mouse
 
     Animator anim;
@@ -121,7 +123,15 @@ public class PlayerAnimation : MonoBehaviour
         if (kb[ability1Key].wasPressedThisFrame) anim.SetTrigger(Ability1Hash);
         if (kb[ability2Key].wasPressedThisFrame) anim.SetTrigger(Ability2Hash);
         if (kb[rollKey].wasPressedThisFrame) anim.SetTrigger(RollHash);
-        if (kb[frontFlipKey].wasPressedThisFrame) anim.SetTrigger(FrontFlipHash);
+
+        // Front Flip só vale durante o Rolling (evita o trigger ficar guardado)
+        if (kb[frontFlipKey].wasPressedThisFrame &&
+            anim.GetCurrentAnimatorStateInfo(0).IsName("Rolling"))
+            anim.SetTrigger(FrontFlipHash);
+
+        // Teclas de teste para dano e morte
+        if (kb[hitKey].wasPressedThisFrame) TakeHit();
+        if (kb[dieKey].wasPressedThisFrame) Die();
     }
 
     void HandleComboReset()
@@ -145,5 +155,20 @@ public class PlayerAnimation : MonoBehaviour
         if (dead || anim == null) return;
         dead = true;
         anim.SetBool(IsDeadHash, true);
+        StartCoroutine(FreezeAfterDeath());
+    }
+
+    System.Collections.IEnumerator FreezeAfterDeath()
+    {
+        // 1) espera o Animator realmente entrar no estado "Die" (fim do blend)
+        while (!anim.GetCurrentAnimatorStateInfo(0).IsName("Die") || anim.IsInTransition(0))
+            yield return null;
+
+        // 2) espera a animação tocar até o fim uma vez
+        while (anim.GetCurrentAnimatorStateInfo(0).normalizedTime < 0.98f)
+            yield return null;
+
+        // 3) congela no último frame (personagem no chão)
+        anim.speed = 0f;
     }
 }

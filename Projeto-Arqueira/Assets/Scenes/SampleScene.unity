@@ -223,6 +223,7 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
+  - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -317,7 +318,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 1.5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -342,12 +343,28 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: -1.46, y: -1.41, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &519420033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce5e93d04af4cef48b2892bebef4e384, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CameraFollow
+  target: {fileID: 1293204736}
+  targetTag: Player
+  offset: {x: 0, y: 0}
+  smoothTime: 0.15
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -471,9 +488,10 @@ GameObject:
   - component: {fileID: 1293204737}
   - component: {fileID: 1293204738}
   - component: {fileID: 1293204739}
+  - component: {fileID: 1293204740}
   m_Layer: 0
   m_Name: 'Arqueira '
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -673,6 +691,8 @@ MonoBehaviour:
   ability2Key: 42
   rollKey: 55
   frontFlipKey: 1
+  hitKey: 22
+  dieKey: 25
 --- !u!114 &1293204739
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -690,6 +710,30 @@ MonoBehaviour:
   crouchSpeed: 1.2
   runKey: 51
   flipSpriteWithDirection: 1
+--- !u!114 &1293204740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1293204732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26b87dccdba439a4f91d92eba3d3dd0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerShooter
+  arrowPrefab: {fileID: 6202462865118328157, guid: 37214fbfc1a60e04a9b8e6dcc702acdb, type: 3}
+  castSpellPrefab: {fileID: 7602014574353706917, guid: 35b6ff82a3be1d04b8fd173b34a52231, type: 3}
+  ability1Prefab: {fileID: 1454507353135745339, guid: 85c05a6b2c5955b4fb579dee573b613b, type: 3}
+  ability2Prefab: {fileID: 2477896251280384620, guid: ea5812db756c7ea47823cb7793bc994d, type: 3}
+  spawnDistance: 0.3
+  arrowSpeed: 5
+  spellSpeed: 3
+  arrowDelay: 0.25
+  spellDelay: 0.3
+  castSpellKey: 32
+  ability1Key: 41
+  ability2Key: 42
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

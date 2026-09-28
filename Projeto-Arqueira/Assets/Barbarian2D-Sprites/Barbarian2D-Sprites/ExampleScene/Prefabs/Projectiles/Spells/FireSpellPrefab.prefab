@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 9056188967191238835}
   - component: {fileID: 3873167020092866340}
-  - component: {fileID: 6185593869581133778}
   - component: {fileID: 2124434414578056786}
+  - component: {fileID: -2491880916004051060}
   m_Layer: 0
   m_Name: FireSpellPrefab
   m_TagString: Untagged
@@ -36,6 +36,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3873167020092866340
 SpriteRenderer:
+  serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -51,6 +52,11 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -72,9 +78,11 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 77
+  m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 2b193870929b0f74b88e95cfd556ec6c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -83,33 +91,12 @@ SpriteRenderer:
   m_Size: {x: 5.12, y: 1.28}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
---- !u!95 &6185593869581133778
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1454507353135745339}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 08b3f9f7b2326d84fac723c2796ad8a9, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
+  m_BlendShapeWeights: []
 --- !u!50 &2124434414578056786
 Rigidbody2D:
-  serializedVersion: 4
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -120,8 +107,8 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -134,3 +121,33 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-2491880916004051060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1454507353135745339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6652757637a9cf743b63f186ce987eeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpriteFrameAnimator
+  frames:
+  - {fileID: -4209461767521648114, guid: dccbae72404c3cc48a148a86e38123a0, type: 3}
+  - {fileID: 5453481469928959302, guid: b139191c2dc8a0f43b2bdd6c3bac57f8, type: 3}
+  - {fileID: -7839056689181992794, guid: 1b00cc7e4ea02ca46b96ec7580ba696e, type: 3}
+  - {fileID: -7866962194647477418, guid: 33fa75b24eded5b4d968fcb5246d3a66, type: 3}
+  - {fileID: 3965758638191431310, guid: 1955f1f990a5ac64fbc151ed0b2c7fd2, type: 3}
+  - {fileID: 2066082498040014989, guid: fefc96341c60c2242a065c37c4566d7b, type: 3}
+  - {fileID: 2407195833089805127, guid: d79bc29a09021ba44a86d453737260c7, type: 3}
+  - {fileID: -2167995136129975658, guid: 3d9759108540d0044a462cefedb6e303, type: 3}
+  - {fileID: 1277467883169801574, guid: 31e5ec89a87873f47b7a1473cf5db531, type: 3}
+  - {fileID: -3754417209682020004, guid: 9a8e143b060ccc848b145aab532b80fd, type: 3}
+  - {fileID: 7603346641494398268, guid: e87f63e5cccb1f8478710d3eb7164aeb, type: 3}
+  - {fileID: 5173698173098673835, guid: 2149db21e9ca4e14a9fabf1d0f4b0d63, type: 3}
+  - {fileID: 5886519731604704116, guid: 8e3574443b5b1b54e939db456bb87f2e, type: 3}
+  - {fileID: 7942963812657439901, guid: aabf6d23db397334f8be1da45d716182, type: 3}
+  - {fileID: 4032061950642251715, guid: 00e90415d557baa4fa1b6d70fbfbaf8b, type: 3}
+  fps: 12
+  loop: 1
